@@ -1,0 +1,19 @@
+h1 {
+  margin: auto;
+}
+
+
+/*img {
+  margin-bottom: 400px;
+}*/
+
+div {
+  margin-bottom: 30rem;
+}
+
+.vertical{
+	transform: rotate(90deg);
+	transform-origin: top 10px;
+  transform-origin: left 200px;
+  /*text-orientation: upright;*/
+}
